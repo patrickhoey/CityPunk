@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx.jar" sourcepath="libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="/cyberpunkgame-desktop/libs/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="/cyberpunkgame-desktop/libs/gdx-backend-lwjgl.jar" sourcepath="/cyberpunkgame-desktop/libs/gdx-openal-sources.jar"/>
+	<classpathentry kind="lib" path="/cyberpunkgame-desktop/libs/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="/cyberpunkgame-desktop/libs/gdx-openal.jar" sourcepath="/cyberpunkgame-desktop/libs/gdx-openal.jar"/>
+	<classpathentry kind="lib" path="libs/jnlua-1.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jnlua-1.0.3.jar" sourcepath="libs/jnlua-1.0.3-source.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

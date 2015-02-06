@@ -1,0 +1,1 @@
+java -cp gdx.jar;..\..\cyberpunkgame-desktop\libs\gdx-natives.jar;..\..\cyberpunkgame-desktop\libs\gdx-backend-lwjgl.jar;..\..\cyberpunkgame-desktop\libs\gdx-backend-lwjgl-natives.jar;gdx-tools.jar com.badlogic.gdx.tools.hiero.Hiero
